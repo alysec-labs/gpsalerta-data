@@ -9,12 +9,12 @@
   "cameras": [
     {
       "id": 1,
-      "name": "Cinemómetro Av. Larco",
-      "district": "Miraflores",
-      "address": "Av. Larco 124",
-      "reference": "Frente a Parque Kennedy",
-      "latitude": -12.121500,
-      "longitude": -77.030000,
+      "name": "Cinemómetro Ca. Ciro Alegria",
+      "district": "San Juan de Miraflores",
+      "address": "Ca. C. Alegria 2805",
+      "reference": "Cerca al Palco",
+      "latitude": -12.180194, 
+      "longitude": -76.955657,
       "radius": 300,
       "speed_limit": 60,
       "type": "fixed",
