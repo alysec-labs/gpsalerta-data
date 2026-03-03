@@ -23,14 +23,14 @@
     },
     {
       "id": 2,
-      "name": "Cinemómetro San Juan de Miraflores",
-      "district": "San Juan de Miraflores",
-      "address": "Av. Matheo Pumacahua 456",
+      "name": "Cinemómetro",
+      "district": "Magdalena del Mar",
+      "address": "Circuito de playa Este - Oeste Costa Verde",
       "reference": "Cerca a comisaria LDV",
       "latitude": -12.191573,
       "longitude":  -76.957448,
       "radius": 300,
-      "speed_limit": 60,
+      "speed_limit": 80,
       "type": "fixed",
       "direction": "both",
       "active": true
