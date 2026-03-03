@@ -12,13 +12,13 @@
       "name": "Cinemómetro Ca. Ciro Alegria",
       "district": "San Juan de Miraflores",
       "address": "Ca. C. Alegria 2805",
-      "reference": "Cerca al Palco",
+      "idcertificate": "Cerca al Palco",
       "latitude": -12.180194, 
       "longitude": -76.955657,
       "radius": 300,
       "speed_limit": 60,
-      "type": "fixed",
-      "direction": "both",
+      "type": "Fijo",
+      "urlcertificate": "both",
       "active": true
     },
     {
@@ -26,13 +26,13 @@
       "name": "Cinemómetro",
       "district": "Magdalena del Mar",
       "address": "Circuito de playa Este - Oeste Costa Verde",
-      "reference": "Cerca a comisaria LDV",
+      "idcertificate": "LLA-VI-018-2025",
       "latitude": -12.191573,
       "longitude":  -76.957448,
       "radius": 300,
       "speed_limit": 80,
-      "type": "fixed",
-      "direction": "both",
+      "type": "Fijo",
+      "urlcertificate": "https://ejemplo.com",
       "active": true
     },
     {
