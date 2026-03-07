@@ -49,6 +49,19 @@
       "urlCertificate": "https://ejemplo.com",
       "active": true
     },
-    
+    {
+      "id": 4,
+      "name": "Camara de velocidad",
+      "district": "Magdalena del Mar",
+      "address": "Av. Sucre cuadra 5 con Jr. Miguel Grau cuadra 2",
+      "idCertificate": "LLA-VI-014-2025",
+      "latitude": -12.093560,
+      "longitude": -77.071068,
+      "radius": 300,
+      "speed_limit": 30,
+      "type": "Fijo",
+      "urlCertificate": "https://ejemplo.com",
+      "active": true
+    },    
   ]
 }
