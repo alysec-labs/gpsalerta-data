@@ -161,6 +161,34 @@
       "urlCertificate": "https://ejemplo.com",
       "active": true
     },    
+    {
+      "id": 12,
+      "name": "Camara de velocidad",
+      "district": "Bellavista - Callao",
+      "address": "Av. Elmer Faucett cuadra 15",
+      "idCertificate": "LLA-VP-024-2025",
+      "latitude": -12.061563, 
+      "longitude": -77.097332,
+      "radius": 200,
+      "speed_limit": 50,
+      "type": "Fijo",
+      "urlCertificate": "https://ejemplo.com",
+      "active": true
+    },    
+    {
+      "id": 13,
+      "name": "Camara de velocidad",
+      "district": "Bellavista - Callao",
+      "address": "Av. Elmer Faucett cuadra 15",
+      "idCertificate": "LLA-VP-019-2025",
+      "latitude": -12.061547, 
+      "longitude": -77.097190,
+      "radius": 200,
+      "speed_limit": 50,
+      "type": "Fijo",
+      "urlCertificate": "https://ejemplo.com",
+      "active": true
+    },    
   
 
 
