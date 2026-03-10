@@ -76,6 +76,93 @@
       "type": "Fijo",
       "urlCertificate": "https://ejemplo.com",
       "active": true
+    },
+    {
+      "id": 6,
+      "name": "Camara de velocidad",
+      "district": "San Borja",
+      "address": "Av. Javier Prado Este, Lima 15021",
+      "idCertificate": "LLA-VI-006-2025",
+      "latitude": -12.086622, 
+      "longitude": -76.995619,
+      "radius": 200,
+      "speed_limit": 60,
+      "type": "Fijo",
+      "urlCertificate": "https://ejemplo.com",
+      "active": true
     },    
+    {
+      "id": 7,
+      "name": "Camara de velocidad",
+      "district": "San Isidro",
+      "address": "Via expresa Luis Fernán Bedoya Reyes, 15047",
+      "idCertificate": "LLA-VI-005-2025",
+      "latitude": -12.093607, 
+      "longitude": -77.023431,
+      "radius": 200,
+      "speed_limit": 80,
+      "type": "Fijo",
+      "urlCertificate": "https://ejemplo.com",
+      "active": true
+    },    
+    {
+      "id": 8,
+      "name": "Camara de velocidad",
+      "district": "Magdalena del Mar",
+      "address": "Av. Brasil cuadra 33 con Av. Javier Prado Oeste",
+      "idCertificate": "LLA-VI-010-2025",
+      "latitude": -12.090355, 
+      "longitude": -77.066235,
+      "radius": 200,
+      "speed_limit": 50,
+      "type": "Fijo",
+      "urlCertificate": "https://ejemplo.com",
+      "active": true
+    },    
+    {
+      "id": 9,
+      "name": "Camara de velocidad",
+      "district": "Magdalena del Mar",
+      "address": "Av. Sucre cuadra 10 con Jr. Cuzco",
+      "idCertificate": "LLA-VI-011-2025",
+      "latitude": -12.088864, 
+      "longitude": -77.069440,
+      "radius": 200,
+      "speed_limit": 50,
+      "type": "Fijo",
+      "urlCertificate": "https://ejemplo.com",
+      "active": true
+    },    
+    {
+      "id": 10,
+      "name": "Camara de velocidad",
+      "district": "Magdalena del Mar",
+      "address": "Av. Del Ejército cuadra 9 con Jr. BacaFlor cuadra 1",
+      "idCertificate": "LLA-VI-012-2025",
+      "latitude": -12.100487, 
+      "longitude": -77.061990,
+      "radius": 200,
+      "speed_limit": 50,
+      "type": "Fijo",
+      "urlCertificate": "https://ejemplo.com",
+      "active": true
+    },    
+    {
+      "id": 11,
+      "name": "Camara de velocidad",
+      "district": "Magdalena del Mar",
+      "address": "Av. Del Ejército con Jr. Del Malecón",
+      "idCertificate": "LLA-VI-013-2025",
+      "latitude": -12.100924, 
+      "longitude": -77.061249,
+      "radius": 200,
+      "speed_limit": 50,
+      "type": "Fijo",
+      "urlCertificate": "https://ejemplo.com",
+      "active": true
+    },    
+  
+
+
   ]
 }
