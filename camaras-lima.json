@@ -245,6 +245,21 @@
       "urlCertificate": "https://ejemplo.com",
       "active": true
     },    
+    {
+      "id": 18,
+      "name": "Camara de velocidad",
+      "district": "San Juan de Miraflores",
+      "address": "Av. Mateo Pumacahua mz, b. lt 11 ",
+      "idCertificate": "LLA-VP-017-2025",
+      "latitude": -12.191914, 
+      "longitude": -76.957953,
+      "radius": 200,
+      "speed_limit": 50,
+      "type": "Fijo",
+      "urlCertificate": "https://ejemplo.com",
+      "active": true
+    },    
+  
   
 
 
