@@ -189,6 +189,34 @@
       "urlCertificate": "https://ejemplo.com",
       "active": true
     },    
+    {
+      "id": 14,
+      "name": "Camara de velocidad",
+      "district": "Carmen de la Legua Reynoso - Callao",
+      "address": "Av. Argentina cuadra 52",
+      "idCertificate": "LLA-VP-025-2025",
+      "latitude": -12.047814, 
+      "longitude": -77.092008,
+      "radius": 200,
+      "speed_limit": 50,
+      "type": "Fijo",
+      "urlCertificate": "https://ejemplo.com",
+      "active": true
+    },    
+    {
+      "id": 15,
+      "name": "Camara de velocidad",
+      "district": "Carmen de la Legua Reynoso - Callao",
+      "address": "Av. Argentina cuadra 52",
+      "idCertificate": "LLA-VP-018-2025",
+      "latitude": -12.047906, 
+      "longitude": -77.091982,
+      "radius": 200,
+      "speed_limit": 50,
+      "type": "Fijo",
+      "urlCertificate": "https://ejemplo.com",
+      "active": true
+    },    
   
 
 
