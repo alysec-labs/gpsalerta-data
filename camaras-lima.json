@@ -217,6 +217,34 @@
       "urlCertificate": "https://ejemplo.com",
       "active": true
     },    
+    {
+      "id": 16,
+      "name": "Camara de velocidad",
+      "district": "La Perla - Callao",
+      "address": "Av. La Marina cuadra 11",
+      "idCertificate": "LLA-VP-021-2025",
+      "latitude": -12.071004, 
+      "longitude": -77.107591,
+      "radius": 200,
+      "speed_limit": 50,
+      "type": "Fijo",
+      "urlCertificate": "https://ejemplo.com",
+      "active": true
+    },    
+    {
+      "id": 17,
+      "name": "Camara de velocidad",
+      "district": "La Perla - Callao",
+      "address": "Av. La Marina cuadra 6",
+      "idCertificate": "LLA-VP-017-2025",
+      "latitude": -12.068060, 
+      "longitude": -77.114774,
+      "radius": 200,
+      "speed_limit": 50,
+      "type": "Fijo",
+      "urlCertificate": "https://ejemplo.com",
+      "active": true
+    },    
   
 
 
