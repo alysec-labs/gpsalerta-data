@@ -288,6 +288,48 @@
       "active": true
     },    
     {
+      "id": 21,
+      "name": "Camara de velocidad",
+      "district": "Callao",
+      "address": "Av. Elmer Faucett cuadra 4",
+      "idCertificate": "LLA-VP-020-2025",
+      "latitude": -12.047724, 
+      "longitude": -77.098346,
+      "radius": 200,
+      "speed_limit": 50,
+      "type": "Fijo",
+      "urlCertificate": "https://ejemplo.com",
+      "active": true
+    },    
+    {
+      "id": 22,
+      "name": "Camara de velocidad",
+      "district": "Callao",
+      "address": "Av. Dominicos cuadra 4",
+      "idCertificate": "LLA-VP-026-2025",
+      "latitude": -12.010934, 
+      "longitude": -77.096666,
+      "radius": 200,
+      "speed_limit": 50,
+      "type": "Fijo",
+      "urlCertificate": "https://ejemplo.com",
+      "active": true
+    },    
+    {
+      "id": 23,
+      "name": "Camara de velocidad",
+      "district": "Callao",
+      "address": "Av. Dominicos cuadra 5",
+      "idCertificate": "LLA-VP-028-2025",
+      "latitude": -12.009966, 
+      "longitude": -77.097393,
+      "radius": 200,
+      "speed_limit": 50,
+      "type": "Fijo",
+      "urlCertificate": "https://ejemplo.com",
+      "active": true
+    },    
+    {
       "id": 19,
       "name": "Camara de velocidad",
       "district": "San Juan de Miraflores",
